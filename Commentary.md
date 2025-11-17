@@ -19,7 +19,7 @@ The AI car drives autonomously by following a spline placed around the track. Ea
 - Converts this into a steering value (–1 to 1),
 - Applies a constant throttle for forward movement.
 
-This logic runs in real time through **Event Tick**, enabling continuous, adaptive steering decisions and smooth autonomous driving behaviour.
+This logic runs in real time through **Event Tick**, enabling continuous, adaptive steering decisions.
    
 
  
