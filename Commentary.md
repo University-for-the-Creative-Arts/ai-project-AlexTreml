@@ -6,6 +6,7 @@ I implemented an NPC AI-driven vehicle control system inside Unreal Engine 5 usi
 
 I then captured and analysed performance telemetry using Unreal Insights, measuring inference time, execution counts, and hardware performance during gameplay.
 
+# https://youtu.be/nVnka6vj5Ik
 
 --- 
 
